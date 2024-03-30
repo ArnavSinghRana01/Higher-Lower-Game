@@ -26,6 +26,7 @@ Welcome to the Higher Lower Game! This is a simple Python console game where you
 - `check_answer(guess, a_followers, b_followers)`: Checks if the user's guess is correct.
 - `game()`: Implements the game logic using the above functions.
 
+
 ## Enjoy the Game! 😄
 Have fun playing the Higher Lower Game and challenge your friends to beat your high score!
 
